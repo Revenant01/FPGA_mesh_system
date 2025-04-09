@@ -1,8 +1,7 @@
 # FPGA-Based Interactive System
 
 [![VHDL](https://img.shields.io/badge/VHDL-Project-blue.svg)](https://en.wikipedia.org/wiki/VHDL)
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/your-repo-name.svg)](https://github.com/your-username/your-repo-name/issues)
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Issues](https://img.shields.io/github/issues/your-username/your-repo-name.svg)](https://github.com/Revenant01/FPGA_mesh_system.git)
 
 ## Overview
 
