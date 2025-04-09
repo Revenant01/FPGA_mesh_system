@@ -9,7 +9,7 @@ This project implements an interactive digital system on an FPGA, integrating ke
 
 ## Top-Level Module (`top.vhd`)
 
-The `top.vhd` ([docs/Keyboard.md](docs/top.md))file serves as the entry point and orchestrates the entire system by instantiating and connecting the following key modules:
+The `top.vhd` ([docs/top.md](docs/top.md))file serves as the entry point and orchestrates the entire system by instantiating and connecting the following key modules:
 
 * **`Keyboard` ([docs/Keyboard.md](docs/Keyboard.md))**: This module handles the interface with a PS/2 keyboard. It receives the clock and data signals from the keyboard, debounces the input, and outputs a 128-bit data vector representing the pressed keys along with a flag indicating new data.
 
