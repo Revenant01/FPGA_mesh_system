@@ -23,16 +23,4 @@ The `top.vhd` ([docs/top.md](docs/top.md))file serves as the entry point and orc
 
 For detailed information on each individual module, please refer to the markdown files within the [docs/](docs/) directory. Each file provides a description of the module's functionality, ports, generics (if any), and internal workings.
 
-## Getting Started
 
-*(This section can be expanded with instructions on how to simulate, synthesize, or implement the design for a specific FPGA board if applicable.)*
-
-## Dependencies
-
-* IEEE Standard Logic Library (`IEEE.STD_LOGIC_1164`)
-* IEEE Numeric Standard (`IEEE.NUMERIC_STD`)
-* *(List any other specific libraries used in the top-level or its direct instantiations)*
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
